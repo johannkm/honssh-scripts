@@ -34,10 +34,14 @@ function run {
     done
 
     sessions=${#timeArr[@]}
-    timeStr=$(join_by , "${timeArr[@]}")
-    commandStr=$( printf "%s," "${commandArr[@]}" )
 
-    echo "$d,$ip_address,$visits,$sessions,$timeStr,$commandStr" >> $outFile
+    if [ $sessions -gt 0 ]; then
+
+      timeStr=$(join_by , "${timeArr[@]}")
+      commandStr=$( printf "%s," "${commandArr[@]}" )
+
+      echo "$d,$ip_address,$visits,$sessions,$timeStr,$commandStr" >> $outFile
+    fi
 
   done
 }
@@ -67,8 +71,8 @@ run 400
 run 500
 run 600
 
-touch data/all.csv
-cat data/300.csv >> all.csv
-cat data/400.csv >> all.csv
-cat data/500.csv >> all.csv
-cat data/600.csv >> all.csv
+> data/all.csv
+cat data/300.csv >> data/all.csv
+cat data/400.csv >> data/all.csv
+cat data/500.csv >> data/all.csv
+cat data/600.csv >> data/all.csv
