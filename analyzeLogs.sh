@@ -3,12 +3,15 @@
 function run {
 
   outFile=data/$1.csv
-  echo "path,ip,visits,commands,time" > $outFile
+  > $outFile
 
   for d in logs/honssh$1/sessions/network1/*/ ; do
 
     ip_address=`basename $d`
     visits=`ls $d/*.log | wc -l | sed -e 's/^[ ]*//'`
+
+    timeArr=()
+    commandArr=()
 
     for logFile in $d/*.log ; do
 
@@ -21,15 +24,20 @@ function run {
       restartTime $timeInSecs $timeOutSecs
 
       if [ $discard -eq 1 ]; then
-        echo $timeIn $timeOut $d
+        # echo $timeIn $timeOut $d
         continue
       fi
 
-      time=$(( timeOutSecs - timeInSecs ))
+      timeArr+=($(( timeOutSecs - timeInSecs )))
+      commandArr+=($(grep "Command Executed:" $logFile | wc -l))
 
     done
 
-    echo "$d,$ip_address,$visits" >> $outFile
+    sessions=${#timeArr[@]}
+    timeStr=$(join_by , "${timeArr[@]}")
+    commandStr=$( printf "%s," "${commandArr[@]}" )
+
+    echo "$d,$ip_address,$visits,$sessions,$timeStr,$commandStr" >> $outFile
 
   done
 }
@@ -51,6 +59,8 @@ function restartTime {
   fi
 
 }
+
+function join_by { local IFS="$1"; shift; echo "$*"; }
 
 run 300
 run 400
