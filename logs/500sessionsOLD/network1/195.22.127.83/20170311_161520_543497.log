@@ -1,0 +1,10 @@
+20170311_161520_543497 - [POT  ] network1 - 192.168.5.2:22
+20170311_161520_543497 - [SSH  ] Incoming Connection from 195.22.127.83:46964 - Poland
+20170311_161520_875764 - [SSH  ] Login Successful: root:dreambox
+20170311_161520_875764 - [SSH  ] Login was spoofed
+20170311_161521_429945 - [TERM0] Opened Channel
+20170311_161521_732769 - [TERM0] Command Executed: /gweerwe323f
+20170311_161521_884742 - [TERM0] Command Executed: sudo /bin/sh 
+20170311_161522_223773 - [TERM0] Command Executed: /bin/busybox cp; /gweerwe323f
+20170311_161623_918933 - [TERM0] Closed Channel
+20170311_161623_918700 - [SSH  ] Lost Connection with 195.22.127.83

@@ -1,0 +1,5 @@
+20170322_161400_655770 - [POT  ] network1 - 192.168.5.2:22
+20170322_161400_655770 - [SSH  ] Incoming Connection from 185.110.132.203:59502
+20170322_161401_111128 - [SSH  ] Login Successful: root:root
+20170322_161401_111128 - [SSH  ] Login was spoofed
+20170322_161401_395223 - [SSH  ] Lost Connection with 185.110.132.203

@@ -1,0 +1,8 @@
+20170325_060837_527221 - [POT  ] network1 - 192.168.5.2:22
+20170325_060837_527221 - [SSH  ] Incoming Connection from 210.114.89.70:35339 - Korea, Republic of
+20170325_060838_902282 - [SSH  ] Login Successful: root:kali
+20170325_060838_902282 - [SSH  ] Login was spoofed
+20170325_060843_142828 - [EXEC0] Opened Channel
+20170325_060843_412036 - [EXEC0] Command Blocked: id
+20170325_060843_638662 - [EXEC0] Closed Channel
+20170325_060844_127044 - [SSH  ] Lost Connection with 210.114.89.70

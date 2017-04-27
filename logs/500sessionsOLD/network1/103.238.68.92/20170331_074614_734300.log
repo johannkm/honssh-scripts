@@ -1,0 +1,5 @@
+20170331_074614_734300 - [POT  ] network1 - 192.168.5.2:22
+20170331_074614_734300 - [SSH  ] Incoming Connection from 103.238.68.92:62509
+20170331_074616_613989 - [SSH  ] Login Successful: root:root
+20170331_074616_613989 - [SSH  ] Login was spoofed
+20170331_074617_531242 - [SSH  ] Lost Connection with 103.238.68.92

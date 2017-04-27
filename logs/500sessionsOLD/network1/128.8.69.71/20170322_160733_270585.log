@@ -1,0 +1,7 @@
+20170322_160733_270585 - [POT  ] network1 - 192.168.5.2:22
+20170322_160733_270585 - [SSH  ] Incoming Connection from 128.8.69.71:55378 - United States
+20170322_160733_559114 - [SSH  ] Login Successful: root:ls
+20170322_160733_559114 - [SSH  ] Login was spoofed
+20170322_160733_717448 - [SFTP1] Opened Channel
+20170322_160823_181366 - [SFTP1] Closed Channel
+20170322_160823_181128 - [SSH  ] Lost Connection with 128.8.69.71

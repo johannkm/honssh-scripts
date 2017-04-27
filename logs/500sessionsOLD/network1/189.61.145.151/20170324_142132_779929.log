@@ -1,0 +1,8 @@
+20170324_142132_779929 - [POT  ] network1 - 192.168.5.2:22
+20170324_142132_779929 - [SSH  ] Incoming Connection from 189.61.145.151:42899 - Brazil
+20170324_142133_176122 - [SSH  ] Login Successful: root:qwerty1234
+20170324_142133_176122 - [SSH  ] Login was spoofed
+20170324_142135_158674 - [EXEC0] Opened Channel
+20170324_142135_230405 - [EXEC0] Command Blocked: id
+20170324_142135_273308 - [EXEC0] Closed Channel
+20170324_142135_462402 - [SSH  ] Lost Connection with 189.61.145.151

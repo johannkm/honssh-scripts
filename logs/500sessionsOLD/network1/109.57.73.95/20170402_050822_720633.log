@@ -1,0 +1,8 @@
+20170402_050822_720633 - [POT  ] network1 - 192.168.5.2:22
+20170402_050822_720633 - [SSH  ] Incoming Connection from 109.57.73.95:50956 - Denmark
+20170402_050823_523960 - [SSH  ] Login Successful: root:antergos
+20170402_050823_523960 - [SSH  ] Login was spoofed
+20170402_050827_147528 - [EXEC0] Opened Channel
+20170402_050827_228094 - [EXEC0] Command Blocked: id
+20170402_050827_305165 - [EXEC0] Closed Channel
+20170402_050827_852915 - [SSH  ] Lost Connection with 109.57.73.95

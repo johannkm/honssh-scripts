@@ -1,0 +1,5 @@
+20170310_090552_246032 - [POT  ] network1 - 192.168.5.2:22
+20170310_090552_246032 - [SSH  ] Incoming Connection from 179.41.242.132:55009 - Argentina
+20170310_090553_140890 - [SSH  ] Login Successful: root:ubnt
+20170310_090553_140890 - [SSH  ] Login was spoofed
+20170310_090553_417091 - [SSH  ] Lost Connection with 179.41.242.132

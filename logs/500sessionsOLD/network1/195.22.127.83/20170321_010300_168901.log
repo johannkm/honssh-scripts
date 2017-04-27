@@ -1,0 +1,10 @@
+20170321_010300_168901 - [POT  ] network1 - 192.168.5.2:22
+20170321_010300_168901 - [SSH  ] Incoming Connection from 195.22.127.83:41207 - Poland
+20170321_010300_521558 - [SSH  ] Login Successful: root:xmhdipc
+20170321_010300_521558 - [SSH  ] Login was spoofed
+20170321_010301_169999 - [TERM0] Opened Channel
+20170321_010301_534517 - [TERM0] Command Executed: /gweerwe323f
+20170321_010301_987765 - [TERM0] Command Executed: sudo /bin/sh 
+20170321_010302_411000 - [TERM0] Command Executed: /bin/busybox cp; /gweerwe323f
+20170321_010456_343039 - [TERM0] Closed Channel
+20170321_010456_342120 - [SSH  ] Lost Connection with 195.22.127.83

@@ -1,0 +1,5 @@
+20170308_123041_602994 - [POT  ] network1 - 192.168.5.2:22
+20170308_123041_602994 - [SSH  ] Incoming Connection from 103.238.68.195:54956
+20170308_123043_013240 - [SSH  ] Login Successful: root:root
+20170308_123043_013240 - [SSH  ] Login was spoofed
+20170308_123043_906645 - [SSH  ] Lost Connection with 103.238.68.195

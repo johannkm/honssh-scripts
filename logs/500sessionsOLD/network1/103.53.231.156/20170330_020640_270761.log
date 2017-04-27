@@ -1,0 +1,7 @@
+20170330_020640_270761 - [POT  ] network1 - 192.168.5.2:22
+20170330_020640_270761 - [SSH  ] Incoming Connection from 103.53.231.156:58006
+20170330_020641_572011 - [SSH  ] Login Successful: root:root
+20170330_020641_572011 - [SSH  ] Login was spoofed
+20170330_020643_095374 - [TERM0] Opened Channel
+20170330_020703_826578 - [TERM0] Closed Channel
+20170330_020703_825272 - [SSH  ] Lost Connection with 103.53.231.156

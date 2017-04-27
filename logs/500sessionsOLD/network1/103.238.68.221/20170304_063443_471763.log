@@ -1,0 +1,5 @@
+20170304_063443_471763 - [POT  ] network1 - 192.168.5.2:22
+20170304_063443_471763 - [SSH  ] Incoming Connection from 103.238.68.221:52808
+20170304_063444_623888 - [SSH  ] Login Successful: root:root
+20170304_063444_623888 - [SSH  ] Login was spoofed
+20170304_063445_381309 - [SSH  ] Lost Connection with 103.238.68.221

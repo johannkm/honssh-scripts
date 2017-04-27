@@ -1,0 +1,5 @@
+20170320_223043_948026 - [POT  ] network1 - 192.168.5.2:22
+20170320_223043_948026 - [SSH  ] Incoming Connection from 104.238.144.142:64390
+20170320_223044_156303 - [SSH  ] Login Successful: root:root
+20170320_223044_156303 - [SSH  ] Login was spoofed
+20170320_223044_420113 - [SSH  ] Lost Connection with 104.238.144.142

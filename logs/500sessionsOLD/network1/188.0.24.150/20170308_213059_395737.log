@@ -1,0 +1,5 @@
+20170308_213059_395737 - [POT  ] network1 - 192.168.5.2:22
+20170308_213059_395737 - [SSH  ] Incoming Connection from 188.0.24.150:44851 - Russian Federation
+20170308_213100_119126 - [SSH  ] Login Successful: root:ubnt
+20170308_213100_119126 - [SSH  ] Login was spoofed
+20170308_213100_318174 - [SSH  ] Lost Connection with 188.0.24.150

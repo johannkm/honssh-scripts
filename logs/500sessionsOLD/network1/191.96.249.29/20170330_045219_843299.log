@@ -1,0 +1,7 @@
+20170330_045219_843299 - [POT  ] network1 - 192.168.5.2:22
+20170330_045219_843299 - [SSH  ] Incoming Connection from 191.96.249.29:46634 - Chile
+20170330_045220_092014 - [SSH  ] Login Successful: root:admin
+20170330_045220_092014 - [SSH  ] Login was spoofed
+20170330_045220_457745 - [TERM0] Opened Channel
+20170330_045247_502250 - [TERM0] Closed Channel
+20170330_045247_501684 - [SSH  ] Lost Connection with 191.96.249.29

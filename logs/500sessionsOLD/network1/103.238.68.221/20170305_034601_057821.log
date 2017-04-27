@@ -1,0 +1,5 @@
+20170305_034601_057821 - [POT  ] network1 - 192.168.5.2:22
+20170305_034601_057821 - [SSH  ] Incoming Connection from 103.238.68.221:63776
+20170305_034602_442130 - [SSH  ] Login Successful: root:root
+20170305_034602_442130 - [SSH  ] Login was spoofed
+20170305_034603_259679 - [SSH  ] Lost Connection with 103.238.68.221

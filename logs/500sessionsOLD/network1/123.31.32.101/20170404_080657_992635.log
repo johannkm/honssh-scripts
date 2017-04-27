@@ -1,0 +1,5 @@
+20170404_080657_992635 - [POT  ] network1 - 192.168.5.2:22
+20170404_080657_992635 - [SSH  ] Incoming Connection from 123.31.32.101:64175 - Vietnam
+20170404_080700_263882 - [SSH  ] Login Successful: root:abcd1234
+20170404_080700_263882 - [SSH  ] Login was spoofed
+20170404_080701_831879 - [SSH  ] Lost Connection with 123.31.32.101

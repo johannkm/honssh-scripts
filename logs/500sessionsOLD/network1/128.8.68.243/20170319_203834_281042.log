@@ -1,0 +1,8 @@
+20170319_203834_281042 - [POT  ] network1 - 192.168.5.2:22
+20170319_203834_281042 - [SSH  ] Incoming Connection from 128.8.68.243:62924 - United States
+20170319_203845_489127 - [SSH  ] Login Successful: root:a
+20170319_203845_489127 - [SSH  ] Login was spoofed
+20170319_203845_601936 - [TERM0] Opened Channel
+20170319_203849_903935 - [TERM0] Command Executed: exit
+20170319_203849_986095 - [TERM0] Closed Channel
+20170319_203850_026586 - [SSH  ] Lost Connection with 128.8.68.243

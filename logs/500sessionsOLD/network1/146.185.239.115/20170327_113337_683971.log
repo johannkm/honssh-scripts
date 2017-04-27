@@ -1,0 +1,5 @@
+20170327_113337_683971 - [POT  ] network1 - 192.168.5.2:22
+20170327_113337_683971 - [SSH  ] Incoming Connection from 146.185.239.115:40161 - Russian Federation
+20170327_113337_984726 - [SSH  ] Login Successful: root:fake
+20170327_113337_984726 - [SSH  ] Login was spoofed
+20170327_113338_176684 - [SSH  ] Lost Connection with 146.185.239.115

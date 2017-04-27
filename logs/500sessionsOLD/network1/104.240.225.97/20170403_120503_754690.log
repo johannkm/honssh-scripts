@@ -1,0 +1,8 @@
+20170403_120503_754690 - [POT  ] network1 - 192.168.5.2:22
+20170403_120503_754690 - [SSH  ] Incoming Connection from 104.240.225.97:2564
+20170403_120504_722065 - [SSH  ] Login Successful: root:putin
+20170403_120504_722065 - [SSH  ] Login was spoofed
+20170403_120505_332868 - [EXEC0] Opened Channel
+20170403_120505_485371 - [EXEC0] Command Blocked: id
+20170403_120505_636660 - [EXEC0] Closed Channel
+20170403_120505_879102 - [SSH  ] Lost Connection with 104.240.225.97

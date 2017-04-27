@@ -1,0 +1,5 @@
+20170404_163238_077056 - [POT  ] network1 - 192.168.5.2:22
+20170404_163238_077056 - [SSH  ] Incoming Connection from 185.110.132.49:35646
+20170404_163238_422655 - [SSH  ] Login Successful: root:alpine
+20170404_163238_422655 - [SSH  ] Login was spoofed
+20170404_163238_723552 - [SSH  ] Lost Connection with 185.110.132.49

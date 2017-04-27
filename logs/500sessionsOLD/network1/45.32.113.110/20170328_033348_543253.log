@@ -1,0 +1,5 @@
+20170328_033348_543253 - [POT  ] network1 - 192.168.5.2:22
+20170328_033348_543253 - [SSH  ] Incoming Connection from 45.32.113.110:63319
+20170328_033355_944958 - [SSH  ] Login Successful: root:root
+20170328_033355_944958 - [SSH  ] Login was spoofed
+20170328_033403_077523 - [SSH  ] Lost Connection with 45.32.113.110

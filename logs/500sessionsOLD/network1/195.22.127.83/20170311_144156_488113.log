@@ -1,0 +1,10 @@
+20170311_144156_488113 - [POT  ] network1 - 192.168.5.2:22
+20170311_144156_488113 - [SSH  ] Incoming Connection from 195.22.127.83:57979 - Poland
+20170311_144206_835281 - [SSH  ] Login Successful: root:openelec
+20170311_144206_835281 - [SSH  ] Login was spoofed
+20170311_144207_379823 - [TERM0] Opened Channel
+20170311_144207_692050 - [TERM0] Command Executed: /gweerwe323f
+20170311_144207_847551 - [TERM0] Command Executed: sudo /bin/sh 
+20170311_144228_148587 - [TERM0] Command Executed: /bin/busybox cp; /gweerwe323f
+20170311_144329_867081 - [TERM0] Closed Channel
+20170311_144329_866820 - [SSH  ] Lost Connection with 195.22.127.83

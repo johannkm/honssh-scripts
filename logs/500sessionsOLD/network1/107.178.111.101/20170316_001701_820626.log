@@ -1,0 +1,5 @@
+20170316_001701_820626 - [POT  ] network1 - 192.168.5.2:22
+20170316_001701_820626 - [SSH  ] Incoming Connection from 107.178.111.101:62100 - United States
+20170316_001702_256085 - [SSH  ] Login Successful: root:root
+20170316_001702_256085 - [SSH  ] Login was spoofed
+20170316_001702_554280 - [SSH  ] Lost Connection with 107.178.111.101

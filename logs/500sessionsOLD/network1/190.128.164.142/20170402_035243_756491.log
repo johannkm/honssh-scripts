@@ -1,0 +1,8 @@
+20170402_035243_756491 - [POT  ] network1 - 192.168.5.2:22
+20170402_035243_756491 - [SSH  ] Incoming Connection from 190.128.164.142:47057 - Paraguay
+20170402_035244_351365 - [SSH  ] Login Successful: root:1qaZse4
+20170402_035244_351365 - [SSH  ] Login was spoofed
+20170402_035246_900883 - [EXEC0] Opened Channel
+20170402_035246_988291 - [EXEC0] Command Blocked: id
+20170402_035247_130472 - [EXEC0] Closed Channel
+20170402_035247_458815 - [SSH  ] Lost Connection with 190.128.164.142

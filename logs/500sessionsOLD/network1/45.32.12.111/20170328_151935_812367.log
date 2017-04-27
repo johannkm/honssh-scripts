@@ -1,0 +1,5 @@
+20170328_151935_812367 - [POT  ] network1 - 192.168.5.2:22
+20170328_151935_812367 - [SSH  ] Incoming Connection from 45.32.12.111:59732
+20170328_151937_727216 - [SSH  ] Login Successful: root:root
+20170328_151937_727216 - [SSH  ] Login was spoofed
+20170328_151938_495586 - [SSH  ] Lost Connection with 45.32.12.111

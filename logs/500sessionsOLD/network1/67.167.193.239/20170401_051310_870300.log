@@ -1,0 +1,5 @@
+20170401_051310_870300 - [POT  ] network1 - 192.168.5.2:22
+20170401_051310_870300 - [SSH  ] Incoming Connection from 67.167.193.239:50904 - United States
+20170401_051311_355458 - [SSH  ] Login Successful: root:password
+20170401_051311_355458 - [SSH  ] Login was spoofed
+20170401_051311_664846 - [SSH  ] Lost Connection with 67.167.193.239

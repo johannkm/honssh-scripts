@@ -1,0 +1,5 @@
+20170304_203320_983638 - [POT  ] network1 - 192.168.5.2:22
+20170304_203320_983638 - [SSH  ] Incoming Connection from 201.176.1.180:49546 - Argentina
+20170304_203322_230124 - [SSH  ] Login Successful: root:123456
+20170304_203322_230124 - [SSH  ] Login was spoofed
+20170304_203322_481173 - [SSH  ] Lost Connection with 201.176.1.180

@@ -1,0 +1,5 @@
+20170405_171838_119461 - [POT  ] network1 - 192.168.5.2:22
+20170405_171838_119461 - [SSH  ] Incoming Connection from 112.99.208.239:55617 - China
+20170405_171840_429834 - [SSH  ] Login Successful: root:ubnt
+20170405_171840_429834 - [SSH  ] Login was spoofed
+20170405_171840_890876 - [SSH  ] Lost Connection with 112.99.208.239

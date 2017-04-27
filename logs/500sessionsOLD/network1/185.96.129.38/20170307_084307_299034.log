@@ -1,0 +1,5 @@
+20170307_084307_299034 - [POT  ] network1 - 192.168.5.2:22
+20170307_084307_299034 - [SSH  ] Incoming Connection from 185.96.129.38:39457
+20170307_084309_373166 - [SSH  ] Login Successful: root:ubnt
+20170307_084309_373166 - [SSH  ] Login was spoofed
+20170307_084309_534533 - [SSH  ] Lost Connection with 185.96.129.38

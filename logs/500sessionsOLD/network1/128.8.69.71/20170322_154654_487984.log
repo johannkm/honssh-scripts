@@ -1,0 +1,20 @@
+20170322_154654_487984 - [POT  ] network1 - 192.168.5.2:22
+20170322_154654_487984 - [SSH  ] Incoming Connection from 128.8.69.71:55270 - United States
+20170322_154657_025033 - [SSH  ] Login Successful: root:pass
+20170322_154657_025033 - [SSH  ] Login was spoofed
+20170322_154659_104594 - [TERM0] Opened Channel
+20170322_154703_344020 - [TERM0] Command Executed: ls
+20170322_154705_629629 - [TERM0] Command Executed: vim file
+20170322_154709_859416 - [TERM0] Command Executed: [2;2R[>0;136;0cihola:wq
+20170322_154711_619877 - [TERM0] Command Executed: ls
+20170322_160346_567843 - [TERM0] Command Executed: cat .bash_history
+20170322_160350_141899 - [TERM0] Command Executed: ls
+20170322_160352_042076 - [TERM0] Command Executed: ls -a
+20170322_160359_546327 - [TERM0] Command Executed: cat .bashrc 
+20170322_160405_218862 - [TERM0] Command Executed: clear
+20170322_160449_195323 - [TERM0] Command Executed: ls
+20170322_160606_499209 - [TERM0] Command Executed: ls
+20170322_160650_337144 - [TERM0] Command Executed: rm file
+20170322_160653_867592 - [TERM0] Command Executed: exit
+20170322_160653_960213 - [TERM0] Closed Channel
+20170322_160654_028523 - [SSH  ] Lost Connection with 128.8.69.71

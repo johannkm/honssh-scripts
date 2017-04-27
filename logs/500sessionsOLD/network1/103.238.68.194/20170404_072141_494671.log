@@ -1,0 +1,5 @@
+20170404_072141_494671 - [POT  ] network1 - 192.168.5.2:22
+20170404_072141_494671 - [SSH  ] Incoming Connection from 103.238.68.194:50552
+20170404_072143_151523 - [SSH  ] Login Successful: root:root123
+20170404_072143_151523 - [SSH  ] Login was spoofed
+20170404_072144_152092 - [SSH  ] Lost Connection with 103.238.68.194

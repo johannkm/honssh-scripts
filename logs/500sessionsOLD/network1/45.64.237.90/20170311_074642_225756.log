@@ -1,0 +1,5 @@
+20170311_074642_225756 - [POT  ] network1 - 192.168.5.2:22
+20170311_074642_225756 - [SSH  ] Incoming Connection from 45.64.237.90:61045
+20170311_074643_307880 - [SSH  ] Login Successful: root:admin
+20170311_074643_307880 - [SSH  ] Login was spoofed
+20170311_074643_741399 - [SSH  ] Lost Connection with 45.64.237.90

@@ -1,0 +1,5 @@
+20170308_011756_985179 - [POT  ] network1 - 192.168.5.2:22
+20170308_011756_985179 - [SSH  ] Incoming Connection from 103.238.68.196:60002
+20170308_011758_128028 - [SSH  ] Login Successful: root:root
+20170308_011758_128028 - [SSH  ] Login was spoofed
+20170308_011758_932272 - [SSH  ] Lost Connection with 103.238.68.196

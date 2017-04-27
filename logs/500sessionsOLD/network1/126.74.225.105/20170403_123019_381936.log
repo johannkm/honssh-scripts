@@ -1,0 +1,8 @@
+20170403_123019_381936 - [POT  ] network1 - 192.168.5.2:22
+20170403_123019_381936 - [SSH  ] Incoming Connection from 126.74.225.105:33947 - Japan
+20170403_123020_003529 - [SSH  ] Login Successful: root:root
+20170403_123020_003529 - [SSH  ] Login was spoofed
+20170403_123020_748094 - [EXEC0] Opened Channel
+20170403_123020_836842 - [EXEC0] Command Blocked: echo -n test
+20170403_123020_980076 - [EXEC0] Closed Channel
+20170403_123021_484013 - [SSH  ] Lost Connection with 126.74.225.105

@@ -1,0 +1,5 @@
+20170405_045158_358986 - [POT  ] network1 - 192.168.5.2:22
+20170405_045158_358986 - [SSH  ] Incoming Connection from 116.101.42.218:63894 - Vietnam
+20170405_045159_652652 - [SSH  ] Login Successful: root:root123
+20170405_045159_652652 - [SSH  ] Login was spoofed
+20170405_045200_618389 - [SSH  ] Lost Connection with 116.101.42.218

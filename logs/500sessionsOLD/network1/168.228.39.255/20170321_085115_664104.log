@@ -1,0 +1,5 @@
+20170321_085115_664104 - [POT  ] network1 - 192.168.5.2:22
+20170321_085115_664104 - [SSH  ] Incoming Connection from 168.228.39.255:33049
+20170321_085116_470286 - [SSH  ] Login Successful: root:12345
+20170321_085116_470286 - [SSH  ] Login was spoofed
+20170321_085116_733143 - [SSH  ] Lost Connection with 168.228.39.255

@@ -1,0 +1,5 @@
+20170404_075952_643004 - [POT  ] network1 - 192.168.5.2:22
+20170404_075952_643004 - [SSH  ] Incoming Connection from 123.31.32.101:64727 - Vietnam
+20170404_075957_097063 - [SSH  ] Login Successful: root:12345
+20170404_075957_097063 - [SSH  ] Login was spoofed
+20170404_075958_478146 - [SSH  ] Lost Connection with 123.31.32.101

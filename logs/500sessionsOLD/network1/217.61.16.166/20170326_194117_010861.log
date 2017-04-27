@@ -1,0 +1,7 @@
+20170326_194117_010861 - [POT  ] network1 - 192.168.5.2:22
+20170326_194117_010861 - [SSH  ] Incoming Connection from 217.61.16.166:36726 - Denmark
+20170326_194118_091448 - [SSH  ] Login Successful: root:xmhdipc
+20170326_194118_091448 - [SSH  ] Login was spoofed
+20170326_194118_404038 - [TERM0] Opened Channel
+20170326_194141_503156 - [TERM0] Closed Channel
+20170326_194141_502865 - [SSH  ] Lost Connection with 217.61.16.166

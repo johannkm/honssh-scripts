@@ -1,0 +1,5 @@
+20170404_213436_371352 - [POT  ] network1 - 192.168.5.2:22
+20170404_213436_371352 - [SSH  ] Incoming Connection from 103.207.39.152:60443
+20170404_213439_250095 - [SSH  ] Login Successful: root:abcd1234
+20170404_213439_250095 - [SSH  ] Login was spoofed
+20170404_213440_791567 - [SSH  ] Lost Connection with 103.207.39.152

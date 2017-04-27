@@ -1,0 +1,5 @@
+20170321_134516_604585 - [POT  ] network1 - 192.168.5.2:22
+20170321_134516_604585 - [SSH  ] Incoming Connection from 104.238.144.142:55229
+20170321_134526_502632 - [SSH  ] Login Successful: root:root
+20170321_134526_502632 - [SSH  ] Login was spoofed
+20170321_134526_862442 - [SSH  ] Lost Connection with 104.238.144.142

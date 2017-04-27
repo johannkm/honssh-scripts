@@ -1,0 +1,5 @@
+20170331_120454_390113 - [POT  ] network1 - 192.168.5.2:22
+20170331_120454_390113 - [SSH  ] Incoming Connection from 120.151.38.139:55437 - Australia
+20170331_120455_686316 - [SSH  ] Login Successful: root:alpine
+20170331_120455_686316 - [SSH  ] Login was spoofed
+20170331_120456_156546 - [SSH  ] Lost Connection with 120.151.38.139

@@ -1,0 +1,10 @@
+20170311_144524_463682 - [POT  ] network1 - 192.168.5.2:22
+20170311_144524_463682 - [SSH  ] Incoming Connection from 195.22.127.83:44841 - Poland
+20170311_144524_788696 - [SSH  ] Login Successful: root:nosoup4u
+20170311_144524_788696 - [SSH  ] Login was spoofed
+20170311_144525_329289 - [TERM0] Opened Channel
+20170311_144525_621613 - [TERM0] Command Executed: /gweerwe323f
+20170311_144525_766705 - [TERM0] Command Executed: sudo /bin/sh 
+20170311_144526_038687 - [TERM0] Command Executed: /bin/busybox cp; /gweerwe323f
+20170311_144631_866452 - [TERM0] Closed Channel
+20170311_144631_866183 - [SSH  ] Lost Connection with 195.22.127.83

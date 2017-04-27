@@ -1,0 +1,8 @@
+20170401_002313_386842 - [POT  ] network1 - 192.168.5.2:22
+20170401_002313_386842 - [SSH  ] Incoming Connection from 92.240.248.241:34741 - Slovakia
+20170401_002313_918298 - [SSH  ] Login Successful: root:zentyal
+20170401_002313_918298 - [SSH  ] Login was spoofed
+20170401_002315_462426 - [EXEC0] Opened Channel
+20170401_002315_621185 - [EXEC0] Command Blocked: id
+20170401_002315_791294 - [EXEC0] Closed Channel
+20170401_002316_049460 - [SSH  ] Lost Connection with 92.240.248.241

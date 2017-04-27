@@ -1,0 +1,5 @@
+20170404_083336_785935 - [POT  ] network1 - 192.168.5.2:22
+20170404_083336_785935 - [SSH  ] Incoming Connection from 123.16.32.196:49319 - Vietnam
+20170404_083338_027512 - [SSH  ] Login Successful: root:root123
+20170404_083338_027512 - [SSH  ] Login was spoofed
+20170404_083339_139240 - [SSH  ] Lost Connection with 123.16.32.196

@@ -1,0 +1,5 @@
+20170331_192358_898051 - [POT  ] network1 - 192.168.5.2:22
+20170331_192358_898051 - [SSH  ] Incoming Connection from 195.144.238.71:47210 - Russian Federation
+20170331_192359_252142 - [SSH  ] Login Successful: root:1234
+20170331_192359_252142 - [SSH  ] Login was spoofed
+20170331_192359_535747 - [SSH  ] Lost Connection with 195.144.238.71

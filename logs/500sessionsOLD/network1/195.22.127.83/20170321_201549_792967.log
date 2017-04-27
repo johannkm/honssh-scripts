@@ -1,0 +1,10 @@
+20170321_201549_792967 - [POT  ] network1 - 192.168.5.2:22
+20170321_201549_792967 - [SSH  ] Incoming Connection from 195.22.127.83:54174 - Poland
+20170321_201550_130711 - [SSH  ] Login Successful: root:raspberrypi
+20170321_201550_130711 - [SSH  ] Login was spoofed
+20170321_201550_712900 - [TERM0] Opened Channel
+20170321_201551_031911 - [TERM0] Command Executed: /gweerwe323f
+20170321_201551_202224 - [TERM0] Command Executed: sudo /bin/sh 
+20170321_201551_532138 - [TERM0] Command Executed: /bin/busybox cp; /gweerwe323f
+20170321_201703_979687 - [TERM0] Closed Channel
+20170321_201703_978662 - [SSH  ] Lost Connection with 195.22.127.83

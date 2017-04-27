@@ -1,0 +1,7 @@
+20170311_033554_796882 - [POT  ] network1 - 192.168.5.2:22
+20170311_033554_796882 - [SSH  ] Incoming Connection from 51.15.128.92:60293 - United Kingdom
+20170311_033555_049570 - [SSH  ] Login Successful: root:default
+20170311_033555_049570 - [SSH  ] Login was spoofed
+20170311_033555_352568 - [TERM0] Opened Channel
+20170311_033614_566268 - [TERM0] Closed Channel
+20170311_033614_566099 - [SSH  ] Lost Connection with 51.15.128.92

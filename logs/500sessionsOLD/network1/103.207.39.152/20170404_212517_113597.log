@@ -1,0 +1,5 @@
+20170404_212517_113597 - [POT  ] network1 - 192.168.5.2:22
+20170404_212517_113597 - [SSH  ] Incoming Connection from 103.207.39.152:51706
+20170404_212520_907810 - [SSH  ] Login Successful: root:counter
+20170404_212520_907810 - [SSH  ] Login was spoofed
+20170404_212523_758544 - [SSH  ] Lost Connection with 103.207.39.152

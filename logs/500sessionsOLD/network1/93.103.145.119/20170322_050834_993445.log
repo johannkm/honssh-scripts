@@ -1,0 +1,5 @@
+20170322_050834_993445 - [POT  ] network1 - 192.168.5.2:22
+20170322_050834_993445 - [SSH  ] Incoming Connection from 93.103.145.119:58338 - Slovenia
+20170322_050835_472640 - [SSH  ] Login Successful: root:1234
+20170322_050835_472640 - [SSH  ] Login was spoofed
+20170322_050835_816115 - [SSH  ] Lost Connection with 93.103.145.119

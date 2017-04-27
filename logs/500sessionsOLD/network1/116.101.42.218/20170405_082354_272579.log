@@ -1,0 +1,5 @@
+20170405_082354_272579 - [POT  ] network1 - 192.168.5.2:22
+20170405_082354_272579 - [SSH  ] Incoming Connection from 116.101.42.218:56317 - Vietnam
+20170405_082355_655407 - [SSH  ] Login Successful: root:root123
+20170405_082355_655407 - [SSH  ] Login was spoofed
+20170405_082356_786574 - [SSH  ] Lost Connection with 116.101.42.218

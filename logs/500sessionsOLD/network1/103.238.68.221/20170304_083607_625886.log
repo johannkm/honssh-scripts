@@ -1,0 +1,5 @@
+20170304_083607_625886 - [POT  ] network1 - 192.168.5.2:22
+20170304_083607_625886 - [SSH  ] Incoming Connection from 103.238.68.221:58775
+20170304_083608_780950 - [SSH  ] Login Successful: root:root
+20170304_083608_780950 - [SSH  ] Login was spoofed
+20170304_083609_574554 - [SSH  ] Lost Connection with 103.238.68.221

@@ -1,0 +1,5 @@
+20170323_113002_780523 - [POT  ] network1 - 192.168.5.2:22
+20170323_113002_780523 - [SSH  ] Incoming Connection from 104.238.144.142:52162
+20170323_113003_242438 - [SSH  ] Login Successful: root:root
+20170323_113003_242438 - [SSH  ] Login was spoofed
+20170323_113003_587285 - [SSH  ] Lost Connection with 104.238.144.142
