@@ -1,7 +1,7 @@
 ## Data
 format of `data/XXX.csv`:
 
-<log directory>,<ip address>,<num sessions with none removed>,<num sessions with bad data removed>,<seconds>(repeated for each good session),<commands run>(repeated for each good session)
+`[log directory],[ip address],[num sessions with none removed],[num sessions with bad data removed],[seconds] repeated for each good session,[commands run] repeated for each good session`
 
 For num of sessions, the 3rd value is the total number of attacks we got. The 4th value is the number of attacks with bad data removed. For statistics, use the 4th value.
 
