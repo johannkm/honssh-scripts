@@ -66,3 +66,9 @@ run 300
 run 400
 run 500
 run 600
+
+touch data/all.csv
+cat data/300.csv >> all.csv
+cat data/400.csv >> all.csv
+cat data/500.csv >> all.csv
+cat data/600.csv >> all.csv
