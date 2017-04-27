@@ -1,8 +1,0 @@
-20170405_195142_606408 - [POT  ] network1 - 192.168.5.2:22
-20170405_195142_606408 - [SSH  ] Incoming Connection from 182.230.9.152:55833 - Korea, Republic of
-20170405_195218_456948 - [SSH  ] Login Successful: root:dreambox
-20170405_195218_456948 - [SSH  ] Login was spoofed
-20170405_195313_188141 - [EXEC0] Opened Channel
-20170405_195313_349578 - [EXEC0] Command Blocked: id
-20170405_195313_506328 - [EXEC0] Closed Channel
-20170405_195314_686404 - [SSH  ] Lost Connection with 182.230.9.152

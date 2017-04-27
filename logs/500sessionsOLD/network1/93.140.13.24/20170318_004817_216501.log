@@ -1,8 +1,0 @@
-20170318_004817_216501 - [POT  ] network1 - 192.168.5.2:22
-20170318_004817_216501 - [SSH  ] Incoming Connection from 93.140.13.24:39628 - Croatia
-20170318_004817_599469 - [SSH  ] Login Successful: root:0000
-20170318_004817_599469 - [SSH  ] Login was spoofed
-20170318_004819_332323 - [EXEC0] Opened Channel
-20170318_004819_368075 - [EXEC0] Command Blocked: id
-20170318_004819_395466 - [EXEC0] Closed Channel
-20170318_004819_978554 - [SSH  ] Lost Connection with 93.140.13.24

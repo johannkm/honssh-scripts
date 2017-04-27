@@ -1,8 +1,0 @@
-20170331_040846_472482 - [POT  ] network1 - 192.168.5.2:22
-20170331_040846_472482 - [SSH  ] Incoming Connection from 218.200.235.178:48972 - China
-20170331_040848_054446 - [SSH  ] Login Successful: root:maggie
-20170331_040848_054446 - [SSH  ] Login was spoofed
-20170331_040848_780018 - [EXEC43] Opened Channel
-20170331_040848_861716 - [EXEC43] Command Blocked: id
-20170331_040848_928520 - [EXEC43] Closed Channel
-20170331_040849_279825 - [SSH  ] Lost Connection with 218.200.235.178

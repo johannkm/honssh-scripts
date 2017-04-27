@@ -1,8 +1,0 @@
-20170309_001408_443509 - [POT  ] network1 - 192.168.5.2:22
-20170309_001408_443509 - [SSH  ] Incoming Connection from 202.57.162.131:35922 - Thailand
-20170309_001409_811578 - [SSH  ] Login Successful: root:root
-20170309_001409_811578 - [SSH  ] Login was spoofed
-20170309_001410_399802 - [EXEC0] Opened Channel
-20170309_001410_410767 - [EXEC0] Command Blocked: uname -a
-20170309_001410_416623 - [EXEC0] Closed Channel
-20170309_001411_040008 - [SSH  ] Lost Connection with 202.57.162.131

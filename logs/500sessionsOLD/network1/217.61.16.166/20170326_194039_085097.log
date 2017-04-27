@@ -1,7 +1,0 @@
-20170326_194039_085097 - [POT  ] network1 - 192.168.5.2:22
-20170326_194039_085097 - [SSH  ] Incoming Connection from 217.61.16.166:46230 - Denmark
-20170326_194040_201970 - [SSH  ] Login Successful: root:1234
-20170326_194040_201970 - [SSH  ] Login was spoofed
-20170326_194040_544264 - [TERM0] Opened Channel
-20170326_194140_286157 - [TERM0] Closed Channel
-20170326_194140_285487 - [SSH  ] Lost Connection with 217.61.16.166

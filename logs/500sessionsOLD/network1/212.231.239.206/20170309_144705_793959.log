@@ -1,8 +1,0 @@
-20170309_144705_793959 - [POT  ] network1 - 192.168.5.2:22
-20170309_144705_793959 - [SSH  ] Incoming Connection from 212.231.239.206:58570 - Spain
-20170309_144718_957362 - [SSH  ] Login Successful: root:xc3511
-20170309_144718_957362 - [SSH  ] Login was spoofed
-20170309_144745_364858 - [EXEC0] Opened Channel
-20170309_144745_395808 - [EXEC0] Command Blocked: id
-20170309_144745_411566 - [EXEC0] Closed Channel
-20170309_144746_894773 - [SSH  ] Lost Connection with 212.231.239.206

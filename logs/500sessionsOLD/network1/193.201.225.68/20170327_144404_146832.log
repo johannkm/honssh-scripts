@@ -1,8 +1,0 @@
-20170327_144404_146832 - [POT  ] network1 - 192.168.5.2:22
-20170327_144404_146832 - [SSH  ] Incoming Connection from 193.201.225.68:61895 - Ukraine
-20170327_144404_797261 - [SSH  ] Login Successful: root:admin
-20170327_144404_797261 - [SSH  ] Login was spoofed
-20170327_144405_183258 - [EXEC43] Opened Channel
-20170327_144405_237344 - [EXEC43] Command Blocked: help
-20170327_144405_288114 - [EXEC43] Closed Channel
-20170327_144405_494413 - [SSH  ] Lost Connection with 193.201.225.68

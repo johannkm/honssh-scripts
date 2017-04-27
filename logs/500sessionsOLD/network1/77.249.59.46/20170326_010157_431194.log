@@ -1,8 +1,0 @@
-20170326_010157_431194 - [POT  ] network1 - 192.168.5.2:22
-20170326_010157_431194 - [SSH  ] Incoming Connection from 77.249.59.46:56222 - Netherlands
-20170326_010159_360681 - [SSH  ] Login Successful: root:security
-20170326_010159_360681 - [SSH  ] Login was spoofed
-20170326_010208_510362 - [EXEC0] Opened Channel
-20170326_010208_563715 - [EXEC0] Command Blocked: id
-20170326_010208_606177 - [EXEC0] Closed Channel
-20170326_010209_412205 - [SSH  ] Lost Connection with 77.249.59.46

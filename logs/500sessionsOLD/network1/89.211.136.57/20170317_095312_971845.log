@@ -1,8 +1,0 @@
-20170317_095312_971845 - [POT  ] network1 - 192.168.5.2:22
-20170317_095312_971845 - [SSH  ] Incoming Connection from 89.211.136.57:60727 - Qatar
-20170317_095313_451445 - [SSH  ] Login Successful: root:mageia
-20170317_095313_451445 - [SSH  ] Login was spoofed
-20170317_095316_139065 - [EXEC0] Opened Channel
-20170317_095316_172755 - [EXEC0] Command Blocked: id
-20170317_095316_197544 - [EXEC0] Closed Channel
-20170317_095316_426402 - [SSH  ] Lost Connection with 89.211.136.57

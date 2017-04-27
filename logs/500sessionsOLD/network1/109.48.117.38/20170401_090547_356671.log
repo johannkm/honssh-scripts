@@ -1,8 +1,0 @@
-20170401_090547_356671 - [POT  ] network1 - 192.168.5.2:22
-20170401_090547_356671 - [SSH  ] Incoming Connection from 109.48.117.38:47415 - Portugal
-20170401_090547_970068 - [SSH  ] Login Successful: root:satan
-20170401_090547_970068 - [SSH  ] Login was spoofed
-20170401_090550_840616 - [EXEC0] Opened Channel
-20170401_090550_913604 - [EXEC0] Command Blocked: id
-20170401_090550_975829 - [EXEC0] Closed Channel
-20170401_090551_188056 - [SSH  ] Lost Connection with 109.48.117.38

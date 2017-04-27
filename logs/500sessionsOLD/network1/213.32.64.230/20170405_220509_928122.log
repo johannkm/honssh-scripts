@@ -1,8 +1,0 @@
-20170405_220509_928122 - [POT  ] network1 - 192.168.5.2:22
-20170405_220509_928122 - [SSH  ] Incoming Connection from 213.32.64.230:46239 - Denmark
-20170405_220511_384518 - [SSH  ] Login Successful: root:router
-20170405_220511_384518 - [SSH  ] Login was spoofed
-20170405_220518_418559 - [EXEC0] Opened Channel
-20170405_220518_506119 - [EXEC0] Command Blocked: id
-20170405_220518_582624 - [EXEC0] Closed Channel
-20170405_220518_901042 - [SSH  ] Lost Connection with 213.32.64.230

@@ -1,8 +1,0 @@
-20170318_012537_982174 - [POT  ] network1 - 192.168.5.2:22
-20170318_012537_982174 - [SSH  ] Incoming Connection from 89.114.125.31:49545 - Romania
-20170318_012538_258650 - [SSH  ] Login Successful: root:root
-20170318_012538_258650 - [SSH  ] Login was spoofed
-20170318_012538_952487 - [EXEC0] Opened Channel
-20170318_012538_984134 - [EXEC0] Command Blocked: echo -n test
-20170318_012539_016212 - [EXEC0] Closed Channel
-20170318_012540_841072 - [SSH  ] Lost Connection with 89.114.125.31

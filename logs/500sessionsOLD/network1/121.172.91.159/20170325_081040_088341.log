@@ -1,8 +1,0 @@
-20170325_081040_088341 - [POT  ] network1 - 192.168.5.2:22
-20170325_081040_088341 - [SSH  ] Incoming Connection from 121.172.91.159:55043 - Korea, Republic of
-20170325_081041_717369 - [SSH  ] Login Successful: root:toor
-20170325_081041_717369 - [SSH  ] Login was spoofed
-20170325_081046_236802 - [EXEC0] Opened Channel
-20170325_081046_388129 - [EXEC0] Command Blocked: id
-20170325_081046_575399 - [EXEC0] Closed Channel
-20170325_081047_066400 - [SSH  ] Lost Connection with 121.172.91.159

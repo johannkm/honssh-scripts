@@ -1,8 +1,0 @@
-20170401_225048_098939 - [POT  ] network1 - 192.168.5.2:22
-20170401_225048_098939 - [SSH  ] Incoming Connection from 166.130.134.46:57800 - United States
-20170401_225119_080235 - [SSH  ] Login Successful: root:drugs
-20170401_225119_080235 - [SSH  ] Login was spoofed
-20170401_225214_683817 - [EXEC0] Opened Channel
-20170401_225214_843338 - [EXEC0] Command Blocked: id
-20170401_225214_966363 - [EXEC0] Closed Channel
-20170401_225219_892151 - [SSH  ] Lost Connection with 166.130.134.46

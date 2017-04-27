@@ -1,8 +1,0 @@
-20170331_040256_879662 - [POT  ] network1 - 192.168.5.2:22
-20170331_040256_879662 - [SSH  ] Incoming Connection from 218.200.235.178:59056 - China
-20170331_040258_512002 - [SSH  ] Login Successful: root:harley
-20170331_040258_512002 - [SSH  ] Login was spoofed
-20170331_040259_253468 - [EXEC43] Opened Channel
-20170331_040259_325946 - [EXEC43] Command Blocked: id
-20170331_040259_388217 - [EXEC43] Closed Channel
-20170331_040259_740260 - [SSH  ] Lost Connection with 218.200.235.178

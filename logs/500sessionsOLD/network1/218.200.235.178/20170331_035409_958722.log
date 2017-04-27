@@ -1,8 +1,0 @@
-20170331_035409_958722 - [POT  ] network1 - 192.168.5.2:22
-20170331_035409_958722 - [SSH  ] Incoming Connection from 218.200.235.178:46501 - China
-20170331_035412_326600 - [SSH  ] Login Successful: root:sorinadrian
-20170331_035412_326600 - [SSH  ] Login was spoofed
-20170331_035413_026264 - [EXEC43] Opened Channel
-20170331_035413_096700 - [EXEC43] Command Blocked: id
-20170331_035413_160035 - [EXEC43] Closed Channel
-20170331_035413_506686 - [SSH  ] Lost Connection with 218.200.235.178

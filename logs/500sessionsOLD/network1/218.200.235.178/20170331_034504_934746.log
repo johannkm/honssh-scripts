@@ -1,8 +1,0 @@
-20170331_034504_934746 - [POT  ] network1 - 192.168.5.2:22
-20170331_034504_934746 - [SSH  ] Incoming Connection from 218.200.235.178:54955 - China
-20170331_034505_813000 - [SSH  ] Login Successful: root:bond007
-20170331_034505_813000 - [SSH  ] Login was spoofed
-20170331_034506_708621 - [EXEC43] Opened Channel
-20170331_034506_856945 - [EXEC43] Command Blocked: id
-20170331_034506_958161 - [EXEC43] Closed Channel
-20170331_034507_334768 - [SSH  ] Lost Connection with 218.200.235.178

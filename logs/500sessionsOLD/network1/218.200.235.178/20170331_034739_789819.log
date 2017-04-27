@@ -1,8 +1,0 @@
-20170331_034739_789819 - [POT  ] network1 - 192.168.5.2:22
-20170331_034739_789819 - [SSH  ] Incoming Connection from 218.200.235.178:44150 - China
-20170331_034741_409214 - [SSH  ] Login Successful: root:zxcvzxcv
-20170331_034741_409214 - [SSH  ] Login was spoofed
-20170331_034742_112685 - [EXEC43] Opened Channel
-20170331_034742_184030 - [EXEC43] Command Blocked: id
-20170331_034742_244556 - [EXEC43] Closed Channel
-20170331_034742_593752 - [SSH  ] Lost Connection with 218.200.235.178

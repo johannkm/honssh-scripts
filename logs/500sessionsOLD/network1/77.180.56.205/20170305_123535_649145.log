@@ -1,8 +1,0 @@
-20170305_123535_649145 - [POT  ] network1 - 192.168.5.2:22
-20170305_123535_649145 - [SSH  ] Incoming Connection from 77.180.56.205:41879 - Germany
-20170305_123537_721769 - [SSH  ] Login Successful: root:raspberry
-20170305_123537_721769 - [SSH  ] Login was spoofed
-20170305_123543_244463 - [EXEC0] Opened Channel
-20170305_123543_256753 - [EXEC0] Command Blocked: id
-20170305_123543_271609 - [EXEC0] Closed Channel
-20170305_123543_595057 - [SSH  ] Lost Connection with 77.180.56.205

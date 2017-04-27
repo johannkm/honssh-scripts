@@ -1,8 +1,0 @@
-20170326_091520_285651 - [POT  ] network1 - 192.168.5.2:22
-20170326_091520_285651 - [SSH  ] Incoming Connection from 52.174.104.128:48243 - United States
-20170326_091520_580222 - [SSH  ] Login Successful: root:realtek
-20170326_091520_580222 - [SSH  ] Login was spoofed
-20170326_091521_799162 - [EXEC0] Opened Channel
-20170326_091521_855003 - [EXEC0] Command Blocked: id
-20170326_091521_903392 - [EXEC0] Closed Channel
-20170326_091522_043575 - [SSH  ] Lost Connection with 52.174.104.128

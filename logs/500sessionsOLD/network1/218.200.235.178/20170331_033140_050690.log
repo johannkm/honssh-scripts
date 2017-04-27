@@ -1,8 +1,0 @@
-20170331_033140_050690 - [POT  ] network1 - 192.168.5.2:22
-20170331_033140_050690 - [SSH  ] Incoming Connection from 218.200.235.178:42723 - China
-20170331_033141_648596 - [SSH  ] Login Successful: root:apple
-20170331_033141_648596 - [SSH  ] Login was spoofed
-20170331_033142_353683 - [EXEC43] Opened Channel
-20170331_033142_419504 - [EXEC43] Command Blocked: id
-20170331_033142_479762 - [EXEC43] Closed Channel
-20170331_033142_827133 - [SSH  ] Lost Connection with 218.200.235.178
