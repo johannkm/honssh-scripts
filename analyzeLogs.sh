@@ -8,6 +8,12 @@ function run {
   for d in logs/honssh$1/sessions/network1/*/ ; do
 
     ip_address=`basename $d`
+
+    checkIfOutside $ip_address
+    if [ $discard -eq 1 ]; then
+      continue
+    fi
+
     visits=`ls $d/*.log | wc -l | sed -e 's/^[ ]*//'`
 
     timeArr=()
@@ -24,7 +30,6 @@ function run {
       restartTime $timeInSecs $timeOutSecs
 
       if [ $discard -eq 1 ]; then
-        # echo $timeIn $timeOut $d
         continue
       fi
 
@@ -38,13 +43,15 @@ function run {
     if [ $sessions -gt 0 ]; then
 
       timeStr=$(join_by , "${timeArr[@]}")
-      commandStr=$( printf "%s," "${commandArr[@]}" )
+      commandStr=$(join_by , "${commandArr[@]}")
 
       echo "$d,$ip_address,$visits,$sessions,$timeStr,$commandStr" >> $outFile
     fi
 
   done
 }
+
+function join_by { local IFS="$1"; shift; echo "$*"; }
 
 function restartTime {
 
@@ -64,7 +71,22 @@ function restartTime {
 
 }
 
-function join_by { local IFS="$1"; shift; echo "$*"; }
+function checkIfOutside {
+
+  discard=0
+
+  if [ `echo $1 | cut -d'.' -f1` = "10" ]; then # local ip
+    discard=1
+  fi
+
+  for ip in "${testingIps[@]}" ; do
+    if [ $ip = $1 ]; then
+      discard=1
+    fi
+  done
+}
+
+testingIps=("129.2.181.54" "108.51.68.182" "69.251.14.6" "69.251.14.6" "71.244.48.92" "129.2.181.81" "108.51.68.182" "129.2.181.81")
 
 run 300
 run 400
