@@ -31,7 +31,7 @@ remove sessions longer than 20 min
 
 total:
 - 96 kicked out
-  - 31 from 300
-  - 31 from 400
-  - 16 from 500
-  - 26 from 600
+  - 30 from 300
+  - 29 from 400
+  - 13 from 500
+  - 24 from 600
