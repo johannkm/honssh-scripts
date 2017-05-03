@@ -3,54 +3,40 @@ import json
 import csv
 import sys
 
-id = '600'
-key = "7c9f5bae7bfee5379cb6584f64fbdb891c114e53"
-infile = id+'_logincounts.csv'
-outfile = id+'_locations.csv'
+id = "600"
+infile = "data/" + id + ".csv"
+outfile = "data/" + id + "_location.csv"
 
-
-def getIpLocation(key, ipAddress):
-    with urllib.request.urlopen("http://api.db-ip.com/v2/"+key+"/"+ipAddress) as url:
-        responseRaw = url.read()
-    response = json.loads(responseRaw)
-    return(response)
-
-
-ipList = []
+key = "ba502337d6fbe5aba5c3a2866164490786f73132"
 
 with open(infile) as csvfile:
     reader = csv.reader(csvfile)
-    for row in reader:
-        if(len(row) == 13):
-            visits = row[1]
-            container = row[8]
-            ip = row[12]
 
-            ipDict = {}
-            ipDict['ip'] = ip
-            ipDict['returned'] = (int(visits) > 1)
-            ipDict['container'] = container
-            ipList.append(ipDict)
+    with open(outfile, 'w') as csvfile:
+        writer = csv.writer(csvfile)
 
-with open(outfile, 'w') as csvfile:
-    writer = csv.writer(csvfile)
+        for readRow in reader:
+            if (len(readRow) >= 6):
+                ip = readRow[1]
 
-    for ipDict in ipList:
+                with urllib.request.urlopen("http://api.db-ip.com/v2/"+key+"/"+ip) as url:
+                    responseRaw = url.read()
+                response = json.loads(responseRaw)
 
-        response = getIpLocation(key, ipDict['ip'])
-        if 'error' in response:
-            print(response['error'])
-            sys.exit(1)
-        else:
-            row = []
+                if 'error' in response:
+                    print(response['error'])
+                    sys.exit(1)
+                else:
+                    writeRow = []
 
-            try:
-                row.append(ipDict['ip'])
-                row.append(ipDict['returned'])
-                row.append(response["continentCode"])
-                row.append(response["countryName"])
+                    writeRow.append(readRow[0])
+                    writeRow.append(readRow[1])
+                    writeRow.append(response["continentCode"])
+                    writeRow.append(response["countryName"])
+                    writeRow.append(int(readRow[3])>1)
 
-                writer.writerow(row)
-                csvfile.flush()
-            except Exception:
-                print('skipping '+ipDict['ip'])
+                    for i in range(2, len(readRow)):
+                        writeRow.append(readRow[i])
+
+                    writer.writerow(writeRow)
+                    print(writeRow)
